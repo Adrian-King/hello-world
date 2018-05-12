@@ -1,2 +1,4 @@
 # hello-world
-General repo
+General repo.
+
+Looking to get into FOSS and help out here and there. 
